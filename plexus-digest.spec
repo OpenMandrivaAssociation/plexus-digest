@@ -43,7 +43,7 @@
 
 Name:           plexus-digest
 Version:        1.0
-Release:        %mkrel 1.0.1
+Release:        %mkrel 1.0.2
 Epoch:          0
 Summary:        Plexus Digest / Hashcode Components
 License:        Apache Software License
