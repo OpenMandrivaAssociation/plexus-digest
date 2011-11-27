@@ -33,7 +33,7 @@
 
 Name:           plexus-digest
 Version:        1.1
-Release:        3
+Release:        5
 Summary:        Plexus Digest / Hashcode Components
 License:        ASL 2.0
 Group:          Development/Java
