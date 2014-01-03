@@ -54,7 +54,7 @@ BuildRequires:  jpackage-utils >= 0:1.7.2
 BuildRequires:  ant >= 0:1.6
 BuildRequires:  maven-local
 BuildRequires:  maven-compiler-plugin
-BuildRequires:  maven-install-plugin
+#BuildRequires:  maven-install-plugin
 BuildRequires:  maven-jar-plugin
 BuildRequires:  maven-javadoc-plugin
 BuildRequires:  maven-resources-plugin
