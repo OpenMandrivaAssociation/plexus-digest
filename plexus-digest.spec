@@ -34,7 +34,7 @@
 
 Name:           plexus-digest
 Version:        1.1
-Release:        14.0%{?dist}
+Release:        14.1%{?dist}
 Epoch:          0
 Summary:        Plexus Digest / Hashcode Components
 License:        ASL 2.0
@@ -54,7 +54,7 @@ BuildRequires:  jpackage-utils >= 0:1.7.2
 BuildRequires:  ant >= 0:1.6
 BuildRequires:  maven-local
 BuildRequires:  maven-compiler-plugin
-#BuildRequires:  maven-install-plugin
+BuildRequires:  maven-install-plugin
 BuildRequires:  maven-jar-plugin
 BuildRequires:  maven-javadoc-plugin
 BuildRequires:  maven-resources-plugin
