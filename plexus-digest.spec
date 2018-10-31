@@ -5,7 +5,7 @@
 
 Name:           plexus-digest
 Version:        1.1
-Release:        16.1
+Release:        16.2
 Epoch:          0
 Summary:        Plexus Digest / Hashcode Components
 Group:		Development/Java
