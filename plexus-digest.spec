@@ -11,7 +11,7 @@ Summary:        Plexus Digest / Hashcode Components
 Group:		Development/Java
 License:        ASL 2.0
 
-URL:            http://plexus.codehaus.org/plexus-components/plexus-digest/
+URL:            https://plexus.codehaus.org/plexus-components/plexus-digest/
 Source0:        %{name}-%{version}-src.tar.gz
 # svn export http://svn.codehaus.org/plexus/plexus-components/tags/plexus-digest-1.1/ plexus-digest/
 # tar czf plexus-digest-1.1-src.tar.gz plexus-digest/
